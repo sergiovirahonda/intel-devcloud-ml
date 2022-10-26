@@ -1,0 +1,9 @@
+daal==2021.6.0
+daal4py==2021.6.3
+joblib==1.2.0
+numpy==1.23.4
+scikit-learn==1.1.2
+scikit-learn-intelex==2021.6.3
+scipy==1.9.3
+tbb==2021.7.0
+threadpoolctl==3.1.0
